@@ -95,6 +95,35 @@ Passive Voice: The subject receives the action. eg-A letter is written by him
 
 #Passive voice is not used for Future Continuous, Present Perfect Continuous, and Past Perfect Continuous
 
+#Rules
+
+Object of active sentence becomes subject of passive.
+Use correct form of "be" + past participle (V3).
+Pronouns must change accordingly (e.g., he → him, I → me).
+
+Direct and Indirect Speech
+
+Direct Speech: The exact words spoken by a person are quoted within quotation marks (“ ”).
+Indirect Speech (also called Reported Speech): The essence of what someone said is reported without using the exact words, and no quotation marks are used.
+
+| **Sentence Type**          | **Direct Speech**                  | **Indirect Speech**                         | **Marathi Translation (Indirect)**            |
+| -------------------------- | ---------------------------------- | ------------------------------------------- | --------------------------------------------- |
+| **Assertive**              | He said, “I am hungry.”            | He said that he was hungry.                 | त्याने सांगितले की तो भुकेला होता.            |
+| **Negative**               | She said, “I don’t like tea.”      | She said that she didn’t like tea.          | तिने सांगितले की तिला चहा आवडत नाही.          |
+| **Interrogative (Yes/No)** | He asked, “Do you play cricket?”   | He asked if I played cricket.               | त्याने विचारले की मी क्रिकेट खेळतो का.        |
+| **Interrogative (WH)**     | She asked, “Where do you live?”    | She asked where I lived.                    | तिने विचारले की मी कुठे राहतो.                |
+| **Imperative (Command)**   | He said, “Close the door.”         | He told me to close the door.               | त्याने मला दरवाजा बंद करायला सांगितले.        |
+| **Imperative (Negative)**  | She said, “Don’t shout.”           | She told me not to shout.                   | तिने मला ओरडू नकोस असे सांगितले.              |
+| **Exclamatory**            | He said, “What a beautiful place!” | He exclaimed that it was a beautiful place. | त्याने उद्गार काढले की ते एक सुंदर ठिकाण आहे. |
+| **Request**                | She said, “Please help me.”        | She requested me to help her.               | तिने मला मदत करायला विनंती केली.              |
+| **Offer**                  | He said, “Shall I carry your bag?” | He offered to carry my bag.                 | त्याने माझा बॅग उचलण्याची ऑफर दिली.           |
+| **Suggestion**             | He said, “Let us go for a walk.”   | He suggested that we should go for a walk.  | त्याने सुचवले की आपण चालायला जाऊया.           |
+
+#Rules
+
+Tense shifts one step back (Present → Past).
+Pronouns and time words change: I → he/she, you → me/him, now → then, today → that day, tomorrow → the next day, etc.
+
 
 
 """
