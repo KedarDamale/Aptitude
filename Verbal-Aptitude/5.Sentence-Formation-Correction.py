@@ -232,7 +232,7 @@ she gave up her healthy habits.
 
 
 
-Ordering Of Sentences
+Ordering Of Sentences(paragraph formation)
 
 Tips and Tricks to Solve Sentence Ordering Questions
 1. Read all the sentences very carefully and then try to identify theme of the paragraph.
@@ -240,6 +240,19 @@ Tips and Tricks to Solve Sentence Ordering Questions
 2. Identify all the keywords used and then try to link them with each other.
 
 3. Check for grammatical errors and remove them while connecting the sentences into a meaningful paragraph.
+
+Directions (Q.1-5) In the following Sentence completion questions, the first and sixth sentences of a passage are already provided. The middle four sentences have been removed and shuffled up; they are labeled P, Q, R and S. Rearrange these four sentences in the correct order.
+
+Q 1. Order the following sentences to from a meaningful paragraph
+S1: The sun was setting, casting a warm orange glow across the sky. 
+P: The trees rustled gently in the breeze, creating a soothing sound. 
+Q: Birds flew overhead, their wings silhouetted against the sunset. 
+R: The scent of flowers wafted through the air, carried by the wind. 
+S: People walked by, enjoying the peacefulness of the evening. 
+S6: The scene was like a painting, a perfect moment frozen in time.
+
+Answer: The proper sequence is RQPS.
+
 
 
 """
