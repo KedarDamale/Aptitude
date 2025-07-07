@@ -46,6 +46,13 @@ English Tense Structures
 | **12. Future Perfect Continuous** | I will have been eating mangoes. | मी बऱ्याच वेळ आंबे खात असेन. |
 
 
+Degrees of comparison
 
+| Degree      | Example |
+| ----------- | ------- |
+| Positive    | tall    |
+| Comparative | taller  |
+| Superlative | tallest |
+ #this will happen with practice you can't just memorize everything
 
 """
