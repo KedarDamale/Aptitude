@@ -187,7 +187,211 @@ When using neither...nor, the verb agrees with the subject closer to the verb.
 | Neither the students nor the teacher **is** present.  | "teacher" is singular, so verb is singular. |
 
 
+Types of Prepositions
+Prepositions of Direction 
+TO 
 
+This preposition is used to indicate the destination.
+For example, I am going to the airport to receive my mom.
+
+TOWARDS 
+
+Towards is used to indicate the direction.
+For example: 
+1. Reena is going towards the bus station. 
+
+ALONG 
+
+This preposition is used to indicate the movement of something/somebody in a certain line in a particular direction.
+For example, Tahir was driving along a narrow road.
+
+AGAINST
+
+It is used in the sense of the opposite of something.
+For example: 
+1. The boat sank as it was trying hard to sail against the strong current. 
+
+Used in the sense of pressing on.
+For example: Bring that boy who is leaning against the tree.
+
+ACROSS 
+
+It is used when we talk about a thing/person moving from one side to another.
+For example, Deepa and her friend were going across the field.
+
+When something is stretched from one side to another.
+For example, Alok stood on the bridge built across the river Ganga.
+
+To indicate the opposite side of something.
+For example, Harpreet saw me across the hall and waved at me.
+
+UP 
+
+It is used to show movement from a lower position to a higher position.
+For example, Raghu climbed up the tree to get himself some fresh fruits.
+
+DOWN
+
+It is used to show movement from a higher position to a lower position.
+For example, Children love walking down the hill as it is less tiring.
+
+INTO 
+
+It is used to show movement in an enclosed space.
+For example: Gargi recently moved into her new apartment.
+
+ONTO 
+
+It is used to show movement on a surface.
+For example:  I asked my sister to move her things onto the second shelf.
+
+OVER 
+
+It is used to show movement both in a forward and upper direction.
+For example: The sprinter ran over more than 10 hurdles in his last race.
+
+Prepositions of Time 
+AT 
+
+It is used to denote precise time.
+For example: 
+1. At 9 O’clock. 
+
+At is used with - sunrise, sunset, dusk, dawn, noon, midnight, and night.
+For example: He asked me to meet him at midnight.
+
+IN 
+
+This preposition is used before months, years, centuries and long periods.
+For example: 
+1. My sister is planning to visit me in November. 
+
+“In” is used before morning, evening, and afternoon.
+For example I used to go for a walk in the morning. 
+
+NOTE: When we add additional information like a date after morning, evening, or afternoon, then we use the preposition before them as in "I remember I first met him on the evening of May the fifth"
+
+ON 
+
+It is used before days and dates.
+For example: 
+1. I am not free today. Therefore, I will come on Monday. 
+ 
+
+FOR 
+
+We use this preposition to indicate a period of time.
+For example: Hanu has been working for this company for over a year now.
+
+SINCE 
+
+We use this preposition to indicate a point of time.
+For example: Bina has been living in this locality since 1989.
+
+AFTER and BEFORE 
+
+We use these prepositions for a point of time.
+For example: 
+1. He married Shreshtha after Diwali. 
+2. I will complete my work before this week.
+
+BY 
+
+It is used to indicate a point of time.
+For example: By next Monday, I would have submitted my thesis to you.
+
+DURING 
+
+This preposition is used to indicate duration.
+For example: During World War 1, several million people died.
+
+FROM 
+
+It is used to show when something starts.
+For example: The movie show is from 7 p.m. to 10 p.m.
+
+That was all about the prepositions. Keep practising questions such as error spotting, sentence improvement or fill-in-the-blanks based on prepositions for a better result.
+
+Preposition of Place or Position
+AT 
+
+We use this preposition before a point position or location.
+For example: Shruti was sitting at her desk when I saw her last.
+
+When we talk about a company or a workplace refer to an activity.
+For example:  There are more than a million people currently working at Apple.
+
+We use this preposition before school, university, cinema, theatre, home, etc.
+For example: My sister will not be at home at the moment. 
+ 
+
+IN 
+
+We use this preposition when we refer to a place with a larger area.
+For example: My aunt lives in Shimla.
+
+When we talk about a company or a workplace only for its physical location.
+For example:  Lola works in an office in Gurugram.
+
+ON 
+
+We use this preposition when we refer to a surface.
+For example: Ram left his phone on the table last Friday.
+
+When we refer to a place/position along a road or river and by a lake or by the sea.
+For example: Banaras is a city on the banks of the river Ganges in Uttar Pradesh.
+
+When we refer to a floor in a building.
+For example: My new flat is on the 5th floor.
+
+When we talk about a person travelling on a public means of transport.
+For example: Shobha was on the train when the mishap happened.
+
+ABOVE and BELOW 
+
+These prepositions are used when we talk about levels.
+For example: 
+1. I am below thirty.
+2. Rehan’s expenditures are above his income.
+
+UNDER and OVER 
+
+This preposition is used to talk about a vertical position.
+For example: 
+1. I kept a box under your table. 
+2. There is a lamp over your head, so watch for it.
+
+BETWEEN 
+
+This preposition is used for two things/persons.
+For example: I distributed the sweets equally between my sister and brother. 
+
+Note: 
+1. We also use objective case after between as in "Between you and him"
+2. We also use ‘and’ after between as in "Between Ram and Shyam"
+
+AMONG or AMONGST 
+
+We use these prepositions when we talk about more than two things/persons. Among is used before a consonant-sounding word. Amongst is used before a vowel-sounding word.
+
+For example: 
+1. Pinku distributed toffees among his classmates. 
+2. Christmas hats were distributed amongst us.
+
+AMIDST 
+
+These prepositions are used when more than two things/persons are being talked about.
+
+For example: 
+Rukmini is feeling lonely, even amidst her friends. 
+
+Note: Among is used in the sense of "being a member of something", whereas amidst is used in the sense of "in the middle/surrounded by something". 
+
+Because of their crucial roles, prepositions are referred to in English as "the biggest little words". It is a vast chapter, yet not a hard nut to crack. Do follow up on the second part of the prepositions for the rest of this important topic.At, In, Into, above, under, over, on, down, behind, beside, across, near, out, along etc. 
+
+
+
+Cover aptitude question on each grammar section
 
 Spotting errors will mostly be asked in terms of grammar where there will be gramatical mistakes so grammar given abover is important
 
