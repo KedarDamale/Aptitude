@@ -1,19 +1,19 @@
 """
-Nouns:Names of people, places, things, ideas eg-Kedar
-Pronouns:Replace nouns to avoid repetition. eg-he,who,someone
-Verbs:Express action or state of being eg-eat,ate,eaten,run,ran,etc
-Adjectives:Describe or modify nouns eg-blue, five, that
-Adverbs:Modify verbs, adjectives, or other adverbs. eg-quickly, yesterday, often, very, here
+🔸Nouns:Names of people, places, things, ideas eg-Kedar
+🔸Pronouns:Replace nouns to avoid repetition. eg-he,who,someone
+🔸Verbs:Express action or state of being eg-eat,ate,eaten,run,ran,etc
+🔸Adjectives:Describe or modify nouns eg-blue, five, that
+🔸Adverbs:Modify verbs, adjectives, or other adverbs. eg-quickly, yesterday, often, very, here
 
 
-Types of sentences
+🔸Types of sentences
 
 Declarative: Makes a statement → I am a student.
 Interrogative: Asks a question → Are you a student?
 Imperative: Gives a command → Please sit down.
 Exclamatory: Expresses emotion → What a beautiful day!
 
-English Tense Structures
+🔸English Tense Structures
 
 | **Tense**                         | **Affirmative Syntax**           | **Negative Syntax**                  | **Question Syntax**                 |
 | --------------------------------- | -------------------------------- | ------------------------------------ | ----------------------------------- |
@@ -46,7 +46,7 @@ English Tense Structures
 | **12. Future Perfect Continuous** | I will have been eating mangoes. | मी बऱ्याच वेळ आंबे खात असेन. |
 
 
-Degrees of comparison
+🔸Degrees of comparison
 
 | Degree      | Example |
 | ----------- | ------- |
@@ -56,7 +56,7 @@ Degrees of comparison
  #this will happen with practice you can't just memorize everything
  
  
- Idioms: Idioms are expressions or phrases whose meanings are not literal
+ 🔸Idioms: Idioms are expressions or phrases whose meanings are not literal
          they cannot be understood word-by-word. Instead, they have a 
          figurative meaning that is culturally understood.
 
@@ -75,9 +75,7 @@ Degrees of comparison
 
 #Again this will be done with practice you cant memorize these
 
-
-
-Active and Passive Voice
+🔸Active and Passive Voice
 
 Active Voice: The subject performs the action. E.g-He writes a letter.
 Passive Voice: The subject receives the action. eg-A letter is written by him
@@ -101,7 +99,7 @@ Object of active sentence becomes subject of passive.
 Use correct form of "be" + past participle (V3).
 Pronouns must change accordingly (e.g., he → him, I → me).
 
-Direct and Indirect Speech
+🔸Direct and Indirect Speech
 
 Direct Speech: The exact words spoken by a person are quoted within quotation marks (“ ”).
 Indirect Speech (also called Reported Speech): The essence of what someone said is reported without using the exact words, and no quotation marks are used.
@@ -123,6 +121,66 @@ Indirect Speech (also called Reported Speech): The essence of what someone said 
 
 Tense shifts one step back (Present → Past).
 Pronouns and time words change: I → he/she, you → me/him, now → then, today → that day, tomorrow → the next day, etc.
+
+🔸Articles: Articles are words used before nouns to define whether the noun is specific or general.
+
+| **Type**                | **Articles** | **Usage**                                       |
+| ----------------------- | ------------ | ----------------------------------------------- |
+| **Definite Article**    | **the**      | Refers to **specific** or **known** things      |
+| **Indefinite Articles** | **a, an**    | Refer to **non-specific** or **unknown** things |
+
+Use "a" before words that begin with a consonant sound: a dog, a car, a university (sounds like "you")
+
+Use "an" before words that begin with a vowel sound (depend on the expression of the words not alphabets): an apple, an umbrella, an hour (silent 'h')
+
+Rules:
+| **Use**                             | **Example**            | **Explanation**                    |
+| ----------------------------------- | ---------------------- | ---------------------------------- |
+| First time mentioning something     | I saw **a dog**.       | The dog is not known yet.          |
+| Referring to **any one** of a group | She is **a doctor**.   | Any doctor, not specific.          |
+| Professions                         | He is **an engineer**. | Used before job titles.            |
+| Singular, countable nouns           | I bought **a book**.   | Can't use with uncountable/plural. |
+
+| **Use**                                                 | **Example**                                | **Explanation**                            |
+| ------------------------------------------------------- | ------------------------------------------ | ------------------------------------------ |
+| Referring to something specific or previously mentioned | I saw **a dog**. **The dog** was barking.  | First mention with “a”, second with “the”. |
+| Unique objects                                          | **The sun** is hot.                        | Only one sun exists.                       |
+| Superlatives                                            | She is **the best** singer.                | Only one can be the best.                  |
+| Ordinal numbers                                         | He was **the first** person.               | Specific position.                         |
+| With oceans, rivers, deserts                            | **The Ganga**, **the Sahara**              | Standard usage.                            |
+| With famous buildings/places                            | **The Eiffel Tower**, **The Taj Mahal**    | Specific known things.                     |
+| With musical instruments                                | He plays **the piano**.                    | General reference to all pianos.           |
+| With some country names                                 | **The United States**, **The Netherlands** | Plural or compound names.                  |
+
+
+
+
+🔸Singular and plurals 
+
+Rules:
+| **Category**                              | **Rule/Condition**                  | **Use**           | **Correct Form**         | **Example Sentence**                         | **Marathi Translation**                             |
+| ----------------------------------------- | ----------------------------------- | ----------------- | ------------------------ | -------------------------------------------- | --------------------------------------------------- |
+| **Countable Nouns**                       | Can be counted (1, 2, 3...)         | Singular & Plural | apple / apples           | I have **an apple**. She has **two apples**. | माझ्याकडे एक सफरचंद आहे. तिच्याकडे दोन सफरचंद आहेत. |
+| **Uncountable Nouns**                     | Cannot be counted individually      | Only Singular     | milk, sugar, water       | Milk **is** good for health.                 | दूध आरोग्यासाठी चांगले आहे.                         |
+| **Hair**                                  | Refers to total hair on head/body   | Singular          | hair                     | Her **hair is** shiny.                       | तिचे केस चमकदार आहेत.                               |
+| **Hair** (Strands)                        | Refers to individual strands        | Plural            | hairs                    | I found **two hairs** in my food.            | मला अन्नात दोन केस सापडले.                          |
+| **Irregular Plurals**                     | Do not follow "s" rule              | Plural            | man → men, tooth → teeth | **Men** are working.                         | पुरुष काम करत आहेत.                                 |
+| **Always Plural Nouns**                   | Always appear in plural form        | Plural            | jeans, scissors, glasses | My **scissors are** sharp.                   | माझी कात्री धारदार आहे.                             |
+| **Tools as Pairs**                        | Use “a pair of” for singular tool   | Singular          | a pair of scissors       | I need **a pair of scissors**.               | मला एक कात्री लागेल.                                |
+| **Collective Nouns** (unit meaning)       | Single unit acting together         | Singular          | team, family             | **The team is** winning.                     | संघ जिंकत आहे.                                      |
+| **Collective Nouns** (individual meaning) | Multiple members acting separately  | Plural            | team, family             | **The team are** wearing different shirts.   | संघाचे सदस्य वेगवेगळे शर्ट घालतात.                  |
+| **Academic Subjects**                     | End in -ics but treated as singular | Singular          | mathematics, physics     | **Mathematics is** difficult.                | गणित कठीण आहे.                                      |
+| **News / Information**                    | Seem plural but uncountable         | Singular          | news, information        | The **news is** sad.                         | बातमी दुःखद आहे.                                    |
+| **Advice / Furniture / Luggage**          | Uncountable nouns                   | Singular          | advice, furniture        | I got **good advice**.                       | मला चांगला सल्ला मिळाला.                            |
+| **Pronouns** (each, everyone, someone)    | Always take singular verb           | Singular          | everyone, someone        | **Everyone is** present.                     | सगळे उपस्थित आहेत.                                  |
+| **Time / Money / Distance** (as units)    | Treated as singular                 | Singular          | 10 years, 100 rupees     | **Ten years is** a long time.                | दहा वर्षे म्हणजे खूप वेळ आहे.                       |
+| **"A number of"**                         | Implies plural count                | Plural            | a number of              | **A number of people are** here.             | बरेच लोक इथे आहेत.                                  |
+| **"The number of"**                       | Refers to one statistic             | Singular          | the number of            | **The number of students is** increasing.    | विद्यार्थ्यांची संख्या वाढत आहे.                    |
+
+
+
+
+Spotting errors will mostly be asked in terms of grammar where there will be gramatical mistakes so grammar given abover is important
 
 
 
