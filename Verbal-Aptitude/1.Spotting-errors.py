@@ -54,5 +54,47 @@ Degrees of comparison
 | Comparative | taller  |
 | Superlative | tallest |
  #this will happen with practice you can't just memorize everything
+ 
+ 
+ Idioms: Idioms are expressions or phrases whose meanings are not literal
+         they cannot be understood word-by-word. Instead, they have a 
+         figurative meaning that is culturally understood.
+
+| **Idiom**                            | **Meaning**                                            | **Example Sentence**                                                       |
+| ------------------------------------ | ------------------------------------------------------ | -------------------------------------------------------------------------- |
+| **1. Break the ice**                 | To start a conversation in a socially awkward setting. | I told a joke to break the ice at the new office meeting.                  |
+| **2. Hit the sack**                  | To go to bed/to sleep.                                 | I’m really tired, I’m going to hit the sack early tonight.                 |
+| **3. Let the cat out of the bag**    | Reveal a secret accidentally.                          | He let the cat out of the bag about the surprise party.                    |
+| **4. Once in a blue moon**           | Something that happens very rarely.                    | We eat out once in a blue moon.                                            |
+| **5. A piece of cake**               | Something very easy to do.                             | That exam was a piece of cake!                                             |
+| **6. Kill two birds with one stone** | Achieve two goals with a single effort.                | By cycling to work, I kill two birds with one stone: exercise and commute. |
+| **7. Under the weather**             | Feeling sick or unwell.                                | I’m feeling a bit under the weather today, so I’ll stay home.              |
+| **8. Spill the beans**               | To reveal secret information.                          | Don’t spill the beans about our plan!                                      |
+| **9. The ball is in your court**     | It’s your turn to take action or make a decision.      | I’ve done my part — now the ball is in your court.                         |
+| **10. Burn the midnight oil**        | To work late into the night.                           | I had to burn the midnight oil to finish the assignment.                   |
+
+#Again this will be done with practice you cant memorize these
+
+
+
+Active and Passive Voice
+
+Active Voice: The subject performs the action. E.g-He writes a letter.
+Passive Voice: The subject receives the action. eg-A letter is written by him
+
+| **Tense**              | **Active Voice**               | **Passive Voice**                       | **Marathi Translation (Passive)**        |
+| ---------------------- | ------------------------------ | --------------------------------------- | ---------------------------------------- |
+| **Present Simple**     | He writes a letter.            | A letter is written by him.             | त्याच्याद्वारे एक पत्र लिहिले जाते.      |
+| **Present Continuous** | He is writing a letter.        | A letter is being written by him.       | त्याच्याद्वारे एक पत्र लिहिले जात आहे.   |
+| **Present Perfect**    | He has written a letter.       | A letter has been written by him.       | त्याच्याद्वारे एक पत्र लिहिले गेले आहे.  |
+| **Past Simple**        | He wrote a letter.             | A letter was written by him.            | त्याच्याद्वारे एक पत्र लिहिले गेले.      |
+| **Past Continuous**    | He was writing a letter.       | A letter was being written by him.      | त्याच्याद्वारे एक पत्र लिहिले जात होते.  |
+| **Past Perfect**       | He had written a letter.       | A letter had been written by him.       | त्याच्याद्वारे एक पत्र लिहिले गेले होते. |
+| **Future Simple**      | He will write a letter.        | A letter will be written by him.        | त्याच्याद्वारे एक पत्र लिहिले जाईल.      |
+| **Future Perfect**     | He will have written a letter. | A letter will have been written by him. | त्याच्याद्वारे एक पत्र लिहिले गेले असेल. |
+
+#Passive voice is not used for Future Continuous, Present Perfect Continuous, and Past Perfect Continuous
+
+
 
 """
