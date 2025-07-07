@@ -178,6 +178,15 @@ Rules:
 | **"The number of"**                       | Refers to one statistic             | Singular          | the number of            | **The number of students is** increasing.    | विद्यार्थ्यांची संख्या वाढत आहे.                    |
 
 
+🔸Neither...Nor
+
+When using neither...nor, the verb agrees with the subject closer to the verb.
+| Example                                               | Explanation                                 |
+| ----------------------------------------------------- | ------------------------------------------- |
+| Neither the teacher nor the students **are** present. | "students" is plural, so verb is plural.    |
+| Neither the students nor the teacher **is** present.  | "teacher" is singular, so verb is singular. |
+
+
 
 
 Spotting errors will mostly be asked in terms of grammar where there will be gramatical mistakes so grammar given abover is important
